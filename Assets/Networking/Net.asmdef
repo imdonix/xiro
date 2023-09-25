@@ -1,0 +1,17 @@
+{
+    "name": "Net",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6cc73ec323001034d9bfacf4b6ed7b48",
+        "GUID:a6d77c464697d5f4d8cb512d610f2afc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
